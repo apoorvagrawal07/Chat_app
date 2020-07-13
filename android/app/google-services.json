@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1086476268092",
+    "firebase_url": "https://catchup-chat-2cd45.firebaseio.com",
+    "project_id": "catchup-chat-2cd45",
+    "storage_bucket": "catchup-chat-2cd45.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1086476268092:android:70422013d43e1c61d5c939",
+        "android_client_info": {
+          "package_name": "com.example.Catch_up"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1086476268092-hrg2lolf9jeb0q5tmngqglap2s1dgtie.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4k4D31Bl5jI8PQxPwLokoViMIdph7RaI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1086476268092-hrg2lolf9jeb0q5tmngqglap2s1dgtie.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
